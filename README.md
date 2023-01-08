@@ -19,9 +19,9 @@
 ### Notebooks and descriptions
 | Notebook | Brief Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [clustering-for-customer-segmentation]( https://github.com/rjwizecom/unsupervised_machine_learning/blob/main/clustering_for_customer_segmentation/notebooks/customer_segmentation.ipynb) | In this project I will apply clustering algorithms to the dataset Wholesale Customers Data Set from the UCI Machine Learning Repository. The dataset contains customers' spending amounts of several product categories. |
-| [topic-modeling]( https://github.com/rjwizecom/unsupervised_machine_learning/blob/main/topic_modeling/notebooks/topic_modeling_lda.ipynb) | In this notebook, I will use Python and its libraries for topic modeling. In topic modeling, statistical models are used to identify topics or categories in a document or a set of documents. I will use one specific method called Latent Dirichlet Allocation (LDA) and apply it to labels on research papers.|
-| [network-analysis]() | Neural networks project where I build fully-connected networks and convolutional neural networks using both Keras and TensorFlow respectively. |
+| [clustering_for_customer_segmentation](https://github.com/rjwizecom/unsupervised_machine_learning/blob/main/clustering_for_customer_segmentation/notebooks/customer_segmentation.ipynb) | In this project I will apply clustering algorithms to the dataset Wholesale Customers Data Set from the UCI Machine Learning Repository. The dataset contains customers' spending amounts of several product categories. |
+| [topic_modeling](https://github.com/rjwizecom/unsupervised_machine_learning/blob/main/topic_modeling/notebooks/topic_modeling_lda.ipynb) | In this notebook, I will use Python and its libraries for topic modeling. In topic modeling, statistical models are used to identify topics or categories in a document or a set of documents. I will use one specific method called Latent Dirichlet Allocation (LDA) and apply it to labels on research papers.|
+| [network_analysis]() | Neural networks project where I build fully-connected networks and convolutional neural networks using both Keras and TensorFlow respectively. |
 
 <a id = 'ci'></a>
 ## Contact Information
