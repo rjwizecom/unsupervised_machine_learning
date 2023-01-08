@@ -19,8 +19,6 @@ I will show how to apply two clustering algorithms to this task:
 - K-Means clustering
 - Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
 
-This notebook was inspired by this [exceptional post](http://blog.yhat.com/posts/customer-segmentation-using-python.html).
-
 <a id = 'data'></a>
 ## Dataset
 
