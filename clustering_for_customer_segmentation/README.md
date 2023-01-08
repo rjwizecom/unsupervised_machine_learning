@@ -10,7 +10,6 @@
 
 <a id = 'intro'></a>
 ### Introduction
-(#Table-of-contents)
 
 This notebook describes how to perform market segmentation using machine learning algorithms. As usual, Wikipedia provides a very thorough definition:
 
