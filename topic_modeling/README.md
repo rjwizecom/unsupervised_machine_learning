@@ -10,8 +10,7 @@
   <a href="#cle"> Cleaning the text </a> •
   <a href="#docmatrix"> Document-term matrix </a> •
   <a href="#model"> LDA model </a>  •
-  <a href="#pyLDAvis"> pyLDAvis </a>  •
-  <a href="#results"> Results </a> 
+  <a href="#pyLDAvis"> pyLDAvis </a> 
 </p>
 
 
