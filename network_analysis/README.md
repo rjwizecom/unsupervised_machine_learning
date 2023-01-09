@@ -1,24 +1,14 @@
 <br>
-<br>
-<p align="center">
-  <img src="images/net-analysis-name.png" 
-       width="500">
-</p>
-<br>
-
-
 ## Network Analysis for web-based hosting service [[view code]]( https://github.com/rjwizecom/unsupervised_machine_learning/blob/main/network_analysis/notebooks/network_analysis.ipynb) 
 ![image title](https://img.shields.io/badge/python-v3.6-green.svg) ![image title](https://img.shields.io/badge/ntlk-v3.2.5-yellow.svg) ![Image title](https://img.shields.io/badge/sklearn-0.19.1-orange.svg) ![Image title](https://img.shields.io/badge/pandas-0.22.0-red.svg) ![Image title](https://img.shields.io/badge/matplotlib-v2.1.2-orange.svg) ![Image title](https://img.shields.io/badge/gensim-0.3.4-blue.svg)
 
 **The code is available [here]( https://github.com/rjwizecom/unsupervised_machine_learning/blob/main/network_analysis/notebooks/network_analysis.ipynb) **
-
 
 <p align="center">
   <a href="#intro"> Quick Introduction </a> •
   <a href="#lib"> Libraries </a> •
    <a href="#ex"> Examples </a> 
 </p>
-
 
 
 <a id = 'intro'></a>
